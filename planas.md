@@ -1,2 +1,11 @@
-sudaryti stuktura
-issikirpti nuotrauka
+-sudaryti stuktura
+-issikirpti nuotrauka
+-puslapis tinkamas ziureti tik ant desktop (nera responsive design)
+-turinys turi stoveti visiskame ekrano centre
+-kairys stulpelis yra fiksuotai mazesnis uz desini ir stovi vertikaliai viduryje
+-username ir eimail suakai rodo teksta 
+-password laukai teksto nerodo (taskiukai)
+-X elementas yra neveikiantis, nes nezinau kas slepiasi po visu turiniu, kuri darytume. 
+-reikia padaryti "sign in" puslapi (paliekame: email ir password + nuoroda i forgot password psl)
+-reikia padaryti "get started" puslapi (paliekame:email + nuoroda i "sing up" psl)
+-visus tris psl turi pilnai sustailinti vienas css failas
