@@ -1,0 +1,2 @@
+sudaryti stuktura
+issikirpti nuotrauka
